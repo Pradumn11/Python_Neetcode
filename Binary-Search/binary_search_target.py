@@ -4,7 +4,12 @@
 
 class Solution(object):
     def search(self, nums, target):
+        """
 
+        :param nums: int arr
+        :param target: int
+        :return: int
+        """
         i, j = 0, len(nums)
 
         while i < j:
