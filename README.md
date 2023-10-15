@@ -1,2 +1,3 @@
 # PI_Neetcode
-DSA using Python
+Practicing DSA using Python.
+All question are solved using python.
